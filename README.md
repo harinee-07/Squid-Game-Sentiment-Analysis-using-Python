@@ -1,1 +1,2 @@
 # Squid-Game-Sentiment-Analysis-using-Python
+The squid game is currently one of the most trending shows on Netflix. People who have never watched a web series before are also watching it since it is so popular. Social media audience reviews and opinions are one of the causes of this. Thus, this post is for you if you want to learn how to evaluate people's opinions regarding Squid Game. In this repository, I'll walk you through the Python Squid Game sentiment analysis assignment.
